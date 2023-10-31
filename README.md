@@ -2,7 +2,7 @@
 
 Welcome to the Self-Hosted Web Analytics System, an open-source solution that puts you in control of your web analytics data. With this PHP code structure, you can host your own web analytics system, ensuring data privacy and flexibility.
 
-**Explore the possibilities at [www.fitnessspire.com](https://www.fitnessspire.com/).**
+**Explore the possibilities at [www.fitnessspire.com](https://www.fitnessspire.com/)**
 
 ## Table of Contents
 - [Introduction](#introduction)
