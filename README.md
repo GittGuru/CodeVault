@@ -1,10 +1,10 @@
 # CodeVault
-# Workout Manager (wger)
-![wger Logo](https://raw.githubusercontent.com/wger-project/wger/master/wger/core/static/images/logos/logo.png)
+# FitnessSpire
+![FitnessSpire Logo](https://raw.githubusercontent.com/wger-project/wger/master/wger/core/static/images/logos/logo.png)
 
-Welcome to wger, your free and open-source workout management tool. wger enables you to keep track of your workouts, weight, diet plans, and can even serve as a straightforward gym management solution. Plus, it offers a robust REST API for easy integration with various projects and tools.
+Welcome to FitnessSpire, your free and open-source workout management tool. FitnessSpire enables you to keep track of your workouts, weight, diet plans, and can even serve as a straightforward gym management solution. Plus, it offers a robust REST API for easy integration with various projects and tools.
 
-For a live, fully functional system, visit the [wger project website](https://wger.de/).
+For a live, fully functional system, visit the [FitnessSpire project website](https://www.fitnessspire.com/).
 
 ![Workout Plan](https://raw.githubusercontent.com/wger-project/wger/master/wger/software/static/images/workout.png)
 
