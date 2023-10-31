@@ -57,5 +57,4 @@ Visit [www.fitnessspire.com](https://www.fitnessspire.com/) to begin your self-h
 
 ---
 
-This `README.md` file provides an introduction to the self-hosted web analytics system, highlights its key features, and offers guidance on getting started, contributing, and customizing the code. It also emphasizes data security and control and includes a link to "www.fitnessspire.com" for further exploration.
 
